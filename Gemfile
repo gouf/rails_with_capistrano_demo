@@ -61,7 +61,6 @@ end
 
 gem 'bootstrap'
 gem 'freeezer'
-gem 'less-rails'
 gem 'nprogress-rails'
 gem 'rails_safe_tasks'
 gem 'rb-readline'

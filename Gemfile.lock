@@ -107,7 +107,6 @@ GEM
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.2)
-    commonjs (0.2.7)
     concord (0.1.5)
       adamantium (~> 0.2.0)
       equalizer (~> 0.0.9)
@@ -136,7 +135,6 @@ GEM
       ruby-progressbar (~> 1.4)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
-    grease (0.3.1)
     guard (2.14.2)
       formatador (>= 0.2.4)
       listen (>= 2.7, < 4.0)
@@ -162,14 +160,6 @@ GEM
       multi_json (>= 1.2)
     launchy (2.4.3)
       addressable (~> 2.3)
-    less (2.6.0)
-      commonjs (~> 0.2.7)
-    less-rails (3.0.0)
-      actionpack (>= 4.0)
-      grease
-      less (~> 2.6.0)
-      sprockets (> 2, < 4)
-      tilt
     libv8 (3.16.14.19)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -420,7 +410,6 @@ DEPENDENCIES
   guard-rubocop
   jbuilder (~> 2.5)
   launchy
-  less-rails
   listen (>= 3.0.5, < 3.2)
   mutant-rspec
   nprogress-rails
